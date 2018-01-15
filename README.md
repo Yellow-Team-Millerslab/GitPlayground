@@ -1,3 +1,3 @@
 # GitPlayground
 
-A play ground for everyone to try sfsdfd git features 
+A play ground for everyone to try test branch git features 
