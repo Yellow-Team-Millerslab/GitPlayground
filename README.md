@@ -1,5 +1,5 @@
 # GitPlayground
 
-A play ground for everyone to try test!!! git features 
+A play ground for everyone to try git features 
 
-This is a new line
+This is a new line conflict
