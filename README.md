@@ -2,4 +2,4 @@
 
 A play ground for everyone to try git features 
 
-This is a new line conflict
+This is a new line conflict pull request test
