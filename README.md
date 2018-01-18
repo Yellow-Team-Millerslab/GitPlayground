@@ -1,7 +1,15 @@
 # GitPlayground
 
-A play ground for everyone to try git features 
+In wiki, there are couple toturials. Each of them takes about 1 minute to demonstrate an operation. 
 
-This is 2nd commit branch
+To start this, you can create a repo or you can fork this repo to your account
 
-This is a new line conflict pull request test
+To fork it:
+
+1. Click fork on top right.
+![](https://i.imgur.com/gp1bvN8.png)
+
+2. Select your account.
+
+And it will show up in your account.
+
