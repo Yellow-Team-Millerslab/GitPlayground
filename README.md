@@ -1,6 +1,6 @@
 # GitPlayground
 
-In wiki, there are couple toturials. Each of them takes about 1 minute to demonstrate an operation. 
+In [wiki](https://github.com/MillersProfessionalImaging/GitPlayground/wiki), there are couple toturials. Each of them takes about 1 minute to demonstrate an operation. 
 
 To start this, you can create a repo or you can fork this repo to your account
 
